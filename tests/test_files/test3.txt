@@ -1,0 +1,3 @@
+This is a file for various search patterns.
+A proximity search should not perform AND based searches. This
+file is one of several test files.

@@ -1,0 +1,2 @@
+This is a test file to try various search patterns.
+A proximity search should work across various lines in files.
